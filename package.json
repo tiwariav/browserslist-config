@@ -1,0 +1,9 @@
+{
+  "name": "@tiwariav/browserslist-config",
+  "version": "1.0.3",
+  "packageManager": "yarn@3.1.1",
+  "description": "Browserlist config for gt-web",
+  "scripts": {
+    "release": "npm publish --access public"
+  }
+}
