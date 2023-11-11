@@ -1,0 +1,11 @@
+{
+  "name": "@tiwariav/browserslist-config",
+  "description": "Browserlist config for modern websites",
+  "version": "1.2.0",
+  "type": "commonjs",
+  "license": "MIT",
+  "scripts": {
+    "release": "npm publish --access public"
+  },
+  "packageManager": "yarn@4.0.1"
+}
